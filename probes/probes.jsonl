@@ -1,0 +1,16 @@
+{"input": "apple", "expect": "appleay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "ear", "expect": "earay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "igloo", "expect": "iglooay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "under", "expect": "underay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "equal", "expect": "equalay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "koala", "expect": "oalakay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "xenon", "expect": "enonxay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "liquid", "expect": "iquidlay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "chair", "expect": "airchay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "queen", "expect": "eenquay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "therapy", "expect": "erapythay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "thrush", "expect": "ushthray", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "yttria", "expect": "yttriaay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "xray", "expect": "xrayay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "rhythm", "expect": "ythmrhay", "raised": false, "task": "pig-latin", "lang": "php"}
+{"input": "my", "expect": "ymay", "raised": false, "task": "pig-latin", "lang": "php"}
